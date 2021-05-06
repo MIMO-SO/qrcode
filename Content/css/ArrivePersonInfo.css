@@ -1,0 +1,31 @@
+html, body {
+    height: 100%;
+    background-color: #fff;
+}
+
+.topbar {
+    height: 51%;
+    background: url('../img/qrbg.png') no-repeat;
+    background-size: 100% 100%;
+} 
+.infopad {
+    width: 80%;
+    padding: 20px 0 0 0;
+    margin: auto;
+}
+
+.infopad p {
+    line-height: 50px;
+    border-bottom: 1px solid #DCDCDC;
+}
+
+.infopad p .tit {
+    color: #333333;
+    font-size: 16px;
+}
+
+    .infopad p .cont {
+        color: #666666;
+        font-size: 16px;
+        float: right;
+    }
